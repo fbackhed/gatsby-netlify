@@ -317,6 +317,9 @@ a:focus {
   margin-bottom: var(--spacing-8);
 }
 
+h2:hover {
+  text-decoration:underline;
+}
 
 /* Media queries */
 
