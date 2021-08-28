@@ -276,6 +276,7 @@ a:focus {
   margin-bottom: var(--spacing-4);
 }
 
+
 .header-link-home {
   font-weight: var(--fontWeight-bold);
   font-family: var(--font-heading);
@@ -315,6 +316,7 @@ a:focus {
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
 }
+
 
 /* Media queries */
 
