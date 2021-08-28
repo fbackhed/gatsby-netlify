@@ -6,7 +6,7 @@ const Layout = ({ location, title, children }) => {
   const isRootPath = location.pathname === rootPath
   let header
 
-  if (isRootPath) {
+ /* if (isRootPath) {
     header = (
       <h1 className="main-heading">
         <Link to="/">{title}</Link>
@@ -18,7 +18,7 @@ const Layout = ({ location, title, children }) => {
         {title}
       </Link>
     )
-  }
+  }*/
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
