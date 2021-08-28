@@ -2,6 +2,10 @@
 title: HYDRA x Trippen
 description: "2020"
 ---
+![](brave_1wohhvvqsy.png)
+
+![](brave_o8tmko1dnl.png)
+
 with live performance by\
 LABOUR + AGF HYDRA + OBJECT AGENCY +\
 HYDRA PHYGITAL PROGRAM installation by\
